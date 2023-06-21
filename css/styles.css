@@ -3,13 +3,18 @@
   padding: 10px;
   height: 50px;
   background-color: blue;
+  
 }
+body{
 
+  
+}
 
 .navbar {
   display: flex;
   justify-content: space-between;
   width: 100%;
+  
 }
 
 
@@ -146,5 +151,6 @@ p{
   align-items: center;
   justify-content: center;
   height: 200px;
+  bottom: 0;
  
 }
