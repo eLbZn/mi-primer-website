@@ -90,6 +90,10 @@ body{
     color:blue;
 }
 
+.greeting {
+  text-align: center;
+}
+
 h1{
     font-family: 'Arial', sans-serif;
     font-size: 36px;
